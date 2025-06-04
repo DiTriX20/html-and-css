@@ -1,0 +1,74 @@
+body{
+    margin: 10px;
+ }
+ .in{
+    width: 400px;
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
+
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+ }
+ .logo{
+     width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+ }
+ 
+ .main{
+    margin-top: 100px;
+ }
+
+ .red{
+    background-color: red;
+    height: 100px;
+    
+ }
+ .green{
+    background-color: green;
+    height: 100px;
+ }
+ .blue{
+    margin-top: 20px;
+ margin-bottom: 20px;
+    background-color: blue;
+    height: 100px;
+ }
+ .card{
+ color: #222;
+ background-color: white;
+ width: 300px;
+ margin-top: 50px;
+ margin-left: auto;
+ margin-right: auto;
+ border: 10px solid #222;
+ border-radius: 40px;
+ 
+ padding: 50px;
+ }
+ .btn{
+   padding-left: 16px;
+   padding-right: 16px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   font-size: 20px;
+   border-radius: 4px;
+   border: none;
+   
+   background: l#dfe1e5;
+   margin-top: 8px;
+  margin-left: 4px;
+  margin-right: 4px;
+ }
+ .btn-wrapper{
+   display: flex;
+   justify-content: center;
+ }
